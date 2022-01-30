@@ -1,1 +1,1 @@
-<center><font face="Arial" size="6"> <br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
+<center><font face="Arial" size="6">マインスイーパー<br><br><iframe src="https://winxp-minesweeper.vercel.app" width="710" height="350"></iframe><br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
