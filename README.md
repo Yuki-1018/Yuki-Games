@@ -1,2 +1,4 @@
 # Yuki-Games
-ようこそYuki Gamesへ
+<center>ようこそYuki Gamesへ<br>
+家族や友達と楽しむブラウザミニゲームです。
+
