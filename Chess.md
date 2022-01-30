@@ -1,1 +1,1 @@
-<center><font face="Arial" size="6"> <br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
+<center><font face="Arial" size="6">チェス<br><br><iframe src="https://yuki-1018.github.io/3D-Hartwig-chess-set/" width="800" height="600"></iframe><br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
