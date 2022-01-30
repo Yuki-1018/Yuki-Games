@@ -1,4 +1,4 @@
-<center>
+<head></head><center>
   <font size="7">ようこそYuki Gamesへ</font><font size="5"><br>
 家族や友達と楽しむブラウザミニゲームです。<br><br>
   目次<br><br><li><a href="Sudoku">数独</a><br><li><a href="Solitaire">ソリティア</a><br><li><a href="FreeCell">フリーセル</a>
