@@ -1,1 +1,1 @@
-<center><font size="6">
+<font face="Arial" size="6">
