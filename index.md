@@ -5,4 +5,5 @@
   <br><li><a href="Minesweeper">マインスイーパー</a><br><li><a href="Tetris">テトリス</a><br><li><a href="Othello">オセロ</a><br><li><a href="◯×Game">マルバツゲーム</a><br><li><a href="PacMan">パックマン</a><br><li><a href="Chess">チェス</a><br><li><a href="https://yuki-1018.github.io/Snake-Game/">蛇(Yuki Gamesから離れる)</a><br><li><a href="https://yuki-1018.github.io/mariohtml5/main.html">マリオ(Yuki Gamesから離れる</a><br>
   <br></font>
   <font size="7">遊び方</font><br><br><font size="5">これらのゲームはPC用に作られたため<br>
-  マウスとキーボードが必要になるゲームもあります。<br>
+  マウスとキーボードが必要になるゲームもあります。<br>ルールはそのゲームにしたがってください。</font><br><br><font size="7">お約束</font>
+  <br>
