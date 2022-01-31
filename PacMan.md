@@ -1,1 +1,1 @@
-<center>パックマン<br><br><iframe src="https://yuki-1018.github.io/pacman-1/" width="700" height="600"></iframe><font face="Arial" size="6"><br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
+<center>パックマン<br><br><iframe src="https://yuki-1018.github.io/pacman-1/" width="700" height="600" frameborder="0"></iframe><font face="Arial" size="6"><br><br><a href="javascript:history.back()"><img src="btn01-11.png"></a>
