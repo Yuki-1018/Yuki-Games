@@ -1,4 +1,4 @@
-<head></head><div class="line-it-button" data-lang="ja" data-type="share-a" data-env="REAL" data-url="https://yuki-1018.github.io/Yuki-Games/" data-color="default" data-size="small" data-count="true" data-ver="3" style="display: none;"></div>
+<head><meta name="robots" content="noindex"></head><div class="line-it-button" data-lang="ja" data-type="share-a" data-env="REAL" data-url="https://yuki-1018.github.io/Yuki-Games/" data-color="default" data-size="small" data-count="true" data-ver="3" style="display: none;"></div>
 <script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script><center>
   <br><font size="7">ようこそYuki Gamesへ</font><font size="5"><br>
 家族や友達と楽しむブラウザミニゲームです。<br><br>
