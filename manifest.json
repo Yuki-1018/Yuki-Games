@@ -1,6 +1,6 @@
 { 
-  "name": "iDroid", 
-  "short_name": "iTest", 
+  "name": "Yuki Games", 
+  "short_name": "Yuki Games", 
   "start_url": "index.html", 
   "display": "standalone", 
   "icons": [{ 
